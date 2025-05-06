@@ -34,5 +34,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-armanalam&show_icons=true&locale=en&layout=compact" alt="mr-armanalam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-armanalam&show_icons=true&locale=en" alt="mr-armanalam" /></p>
-
