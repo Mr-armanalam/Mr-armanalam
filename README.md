@@ -7,13 +7,8 @@
 **On the front end**, I expertise in creating visually appealing, interactive interfaces that make user navigation intuitive and enjoyable. I work with modern libraries and frameworks like **React.js, Next.js, and Three.js**, ensuring that my projects not only look great but perform smoothly across all devices.
 **My back-end skills** allow me to build robust, secure, and scalable systems using technologies such as **Node.js, Express, tRPC and databases like MongoDB and PostgreSQL**. I have a knack for designing efficient APIs and implementing backend logic that brings functionality to life while maintaining high standards of security and efficiency.
 
-- 🔭 I’m currently working on [Multi Vender E-commerce website](https://github.com/Mr-armanalam/multivendor-ecommerce.git)
-
-- 🌱 I’m currently learning **TypeScript, tRPC, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://armanalam.vercel.app](https://armanalam.vercel.app)
-
-- 💬 Ask me about **React.js, TypeScript,JavaScript,MongoDB**
 
 - 📫 How to reach me **armanalam78578@gmail.com**
 
