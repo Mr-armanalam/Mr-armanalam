@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **armanalam78578@gmail.com**
 
-- 📄 Know about my experiences [https://armanalam.vercel.app/resume](https://armanalam.vercel.app/resume)
+<!-- - 📄 Know about my experiences [https://armanalam.vercel.app/resume](https://armanalam.vercel.app/resume) -->
 
 <img width="2799" height="973" alt="image" src="https://github.com/user-attachments/assets/46241261-6d57-427c-a0a7-b8e9748fc5b7" />
 
