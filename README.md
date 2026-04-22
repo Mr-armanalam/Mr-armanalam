@@ -5,7 +5,7 @@
   **Welcome!** I'm a dedicated and versatile full stack web developer with **two years of experience** in building impactful digital solutions from concept to completion. With a strong foundation in both front-end and back-end development, I specialize in crafting seamless, responsive, and engaging web applications that offer top-notch user experiences.
 
 **On the front end**, I expertise in creating visually appealing, interactive interfaces that make user navigation intuitive and enjoyable. I work with modern libraries and frameworks like **React.js, Next.js, and Three.js**, ensuring that my projects not only look great but perform smoothly across all devices.
-**My back-end skills** allow me to build robust, secure, and scalable systems using technologies such as **Node.js, Express, tRPC and databases like MongoDB and PostgreSQL**. I have a knack for designing efficient APIs and implementing backend logic that brings functionality to life while maintaining high standards of security and efficiency.
+**My back-end skills** allow me to build robust, secure, and scalable systems using technologies such as **Node.js, Express, tRPC and databases like MongoDB and PostgreSQL**. I have a knowledge for designing efficient APIs and implementing backend logic that brings functionality to life while maintaining high standards of security and efficiency.
 
 
 - 👨‍💻 All of my projects are available at [https://armanalam.vercel.app](https://armanalam.vercel.app)
